@@ -1,4 +1,4 @@
-# githubのidenticonジェネレーター
+# github風identiconジェネレーター
 
 ## 使い方
 sample_canvas.ymlにならって、paletteとcanvasを設定してください。  
