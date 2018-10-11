@@ -6,6 +6,9 @@ paletteに色を定義。canvasにpaletteで定義した色で好きなアイコ
 背景色はbackground-colorで定義できます。  
 当然ymlなのでバージョン管理ができます。（だからどうした）  
 
+コマンドラインで下記のように実行してください。  
+python identicongen.py canvas.yml
+
 ## 必要pythonモジュール
 - opencv-python
 - PyYAML
